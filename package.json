@@ -4,7 +4,7 @@
   "description": "duende's profile",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev index.ts",
+    "dev": "ts-node index.ts",
     "build": "ts-node index.ts"
   },
   "repository": {
@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/dud9/dud9#readme",
   "dependencies": {
-    "@mx-space/api-client": "0.10.6",
     "@types/html-minifier": "4.0.1",
     "@types/node": "16.10.3",
     "axios": "0.22.0",
@@ -31,6 +30,7 @@
     "typescript": "4.4.3"
   },
   "devDependencies": {
+    "@types/lodash": "^4.14.182",
     "@types/markdown-it": "12.2.3",
     "markdown-it": "12.3.0"
   }

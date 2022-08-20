@@ -5,25 +5,9 @@ import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
 import MarkdownIt from 'markdown-it'
 import rax from 'retry-axios'
-import { github, motto, mxSpace, opensource, timeZone } from './config'
+import { motto, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
-import {
-  AggregateController,
-  createClient,
-  NoteModel,
-  PostModel,
-} from '@mx-space/api-client'
-import { axiosAdaptor } from '@mx-space/api-client/lib/adaptors/axios'
-
-const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
-  controllers: [AggregateController],
-})
-
-axiosAdaptor.default.interceptors.request.use((req) => {
-  req.headers && (req.headers['User-Agent'] = 'Innei profile')
-  return req
-})
 
 const md = new MarkdownIt({
   html: true,
@@ -37,14 +21,14 @@ axios.defaults.raxConfig = {
   onRetryAttempt: (err) => {
     const cfg = rax.getConfig(err)
     console.log('request: \n', err.request)
-    console.log(`Retry attempt #${cfg.currentRetryAttempt}`)
+    console.log(`Retry attempt #${cfg!.currentRetryAttempt}`)
   },
 }
 
-const userAgent =
+const userAgent: string =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36'
 
-axios.defaults.headers.common['User-Agent'] = userAgent
+axios.defaults.headers!.common['User-Agent'] = userAgent
 const gh = axios.create({
   baseURL: githubAPIEndPoint,
   timeout: 4000,
@@ -55,32 +39,12 @@ gh.interceptors.response.use(undefined, (err) => {
   return Promise.reject(err)
 })
 
-type GHItem = {
-  name: string
-  id: number
-  full_name: string
-  description: string
-  html_url: string
-}
-
-type PostItem = {
-  title: string
-  summary: string
-  created: string
-  modified: string
-  id: string
-  slug: string
-  category: {
-    name: string
-    slug: string
-  }
-}
 
 /**
- * 生成 `写过的玩具` 结构
+ * 生成 `Projects` 结构
  */
 
-function generateToysHTML(list: GRepo[]) {
+function generateProjectsHTML(list: GRepo[]) {
   const tbody = list.reduce(
     (str, cur) =>
       str +
@@ -115,95 +79,21 @@ ${tbody}
 async function main() {
   const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
   let newContent = template
-  // 获取活跃的开源项目详情
-  const activeOpenSourceDetail: GRepo[] = await Promise.all(
-    opensource.active.map((name) => {
-      return gh.get('/repos/' + name).then((data) => data.data)
-    }),
-  )
 
-  // 获取写过的玩具开源项目详情
-  const limit = opensource.toys.limit
-  const toys = opensource.toys.random
-    ? shuffle(opensource.toys.repos).slice(0, limit)
-    : opensource.toys.repos.slice(0, limit)
-  const toysProjectDetail: GRepo[] = await Promise.all(
-    toys.map((name) => {
-      return gh.get('/repos/' + name).then((data) => data.data)
+  // 获取写过的项目详情
+  const limit = opensource.projects.limit
+  const projects = opensource.projects.random
+    ? shuffle(opensource.projects.repos).slice(0, limit)
+    : opensource.projects.repos.slice(0, limit)
+  const projectsProjectDetail: GRepo[] = await Promise.all(
+    projects.map(async (name: string) => {
+      const data = await gh.get('/repos/' + name)
+      return data.data
     }),
   )
 
   newContent = newContent
-    .replace(
-      gc('OPENSOURCE_DASHBOARD_ACTIVE'),
-      generateOpenSourceSectionHtml(activeOpenSourceDetail),
-    )
-    .replace(gc('OPENSOURCE_TOYS'), generateToysHTML(toysProjectDetail))
-
-  // 获取 Star
-  const star: any[] = await gh
-    .get('/users/' + github.name + '/starred')
-    .then((data) => data.data)
-
-  {
-    // TOP 5
-    const topStar5 = star
-      .slice(0, 5)
-      .reduce((str, cur) => str + generateRepoHTML(cur), '')
-
-    newContent = newContent.replace(
-      gc('RECENT_STAR'),
-      m`
-    <ul>
-${topStar5}
-    </ul>
-    `,
-    )
-
-    // 曾经点过的 Star
-    const random = shuffle(star.slice(5))
-      .slice(0, 5)
-      .reduce((str, cur) => str + generateRepoHTML(cur), '')
-
-    newContent = newContent.replace(
-      gc('RANDOM_GITHUB_STARS'),
-      m`
-      <ul>
-  ${random}
-      </ul>
-      `,
-    )
-  }
-
-  {
-    const posts = await mxClient.aggregate
-      .getTimeline()
-      .then((data) => data.data)
-      .then((data) => {
-        const posts = data.posts
-        const notes = data.notes
-        const sorted = [
-          ...posts.map((i) => ({ ...i, type: 'Post' as const })),
-          ...notes.map((i) => ({ ...i, type: 'Note' as const })),
-        ].sort((b, a) => +new Date(a.created) - +new Date(b.created))
-        return sorted.slice(0, 5).reduce((acc, cur) => {
-          if (cur.type === 'Note') {
-            return acc.concat(generateNoteItemHTML(cur))
-          } else {
-            return acc.concat(generatePostItemHTML(cur))
-          }
-        }, '')
-      })
-
-    newContent = newContent.replace(
-      gc('RECENT_POSTS'),
-      m`
-      <ul>
-  ${posts}
-      </ul>
-      `,
-    )
-  }
+    .replace(gc('OPENSOURCE_PROJECTS'), generateProjectsHTML(projectsProjectDetail))
 
   // 注入 FOOTER
   {
