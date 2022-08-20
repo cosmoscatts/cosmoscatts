@@ -21,12 +21,10 @@ I'm just infected with a disease called curiosity.
 
 <p>
   <img alt="Java" 
-    src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=https://api.iconify.design/logos:java.svg&logoColor=white" />
+    src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Maven" 
     src="https://img.shields.io/badge/-Maven-0088CC?style=flat-square&logo=apachemaven&logoColor=white" />
-  <img alt="MyBatisPlus" 
-    src="https://img.shields.io/badge/-MyBatisPlus-1E1E22?style=flat-square&logo=maven&logoColor=white" />
 </p>
 
 **写过的项目**
