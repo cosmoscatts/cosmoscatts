@@ -2,8 +2,6 @@
 
 I'm just infected with a disease called curiosity.
 
-他具备以下技能：
-
 **Web Developer**
 
 <p>
