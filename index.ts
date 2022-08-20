@@ -8,12 +8,6 @@ import rax from 'retry-axios'
 import { motto, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
-import { axiosAdaptor } from '@mx-space/api-client/lib/adaptors/axios'
-
-axiosAdaptor.default.interceptors.request.use((req) => {
-  req.headers && (req.headers['User-Agent'] = 'dud9 profile')
-  return req
-})
 
 const md = new MarkdownIt({
   html: true,
