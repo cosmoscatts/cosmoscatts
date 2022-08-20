@@ -7,7 +7,7 @@ I'm just infected with a disease called curiosity.
     <a href="https://duende.netlify.app/">me</a> .
     <a href="https://duende.netlify.app/posts">blog</a> .
     <a href="https://duende.netlify.app/projects">projects</a> .
-    <a href="https://duende.netlify.app/codes">leetcode</a> .
+    <a href="https://duende.netlify.app/codes">leetcode</a>
   </samp>
 </p>
 
