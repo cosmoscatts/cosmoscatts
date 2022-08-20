@@ -44,7 +44,7 @@ I'm just infected with a disease called curiosity.
 
 <a href="#">
     <p align="left">
-        <img src="https://github-profile-trophy.vercel.app/?username=dud9&column=7&theme=onedark&hide_border=true" />
+        <img src="https://github-profile-trophy.vercel.app/?username=dud9&column=7&theme=onedark&no-frame=true" />
     </p>
 </a>
 
