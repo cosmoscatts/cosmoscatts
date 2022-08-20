@@ -44,14 +44,14 @@ I'm just infected with a disease called curiosity.
 
 <a href="#">
     <p align="left">
-        <img src="https://github-profile-trophy.vercel.app/?username=dud9&column=7&theme=onedark&hide_border" />
+        <img src="https://github-profile-trophy.vercel.app/?username=dud9&column=7&theme=onedark&hide_border=true" />
     </p>
 </a>
 
 <a align="center" href="#">
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=dud9&show_icons=true&theme=highcontrast&hide_border"
-     alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dud9&layout=compact&theme=highcontrast&hide_border" alt="languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dud9&show_icons=true&theme=highcontrast&hide_border=true"
+     alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dud9&layout=compact&theme=highcontrast&hide_border=true" alt="languages" height="165" />
   </p>
 </a>
 
