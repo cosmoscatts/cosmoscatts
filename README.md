@@ -38,20 +38,21 @@ I'm just infected with a disease called curiosity.
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-F29111?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-**写过的项目**
+**Projects**
 
 <table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/dud9/parfait target=_blank><b>duende/parfait</b></a><a href=https://https://github.com/dud9/parfait/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/dud9/soft-tagbar target=_blank><b>duende/soft-tagbar</b></a> <a href=https://https://github.com/dud9/soft-tagbar/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/soft-tagbar?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>6/26/2022</td></tr><tr><td><a href=https://github.com/dud9/petite target=_blank><b>duende/petite</b></a> <a href=https://https://github.com/dud9/petite/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/petite?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>6/23/2022</td></tr></tbody></table>
 
 <a href="#">
     <p align="left">
-        <img src="https://github-profile-trophy.vercel.app/?username=dud9&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=dud9&column=7&theme=onedark" 
+        style="border: none;" />
     </p>
 </a>
 
 <a align="center" href="#">
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=dud9&show_icons=true&theme=tokyonight"
-     alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dud9&layout=compact&theme=tokyonight" alt="languages" height="165">
+     alt="my github stats" width="420" style="border: none;" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dud9&layout=compact&theme=tokyonight" alt="languages" height="165" style="border: none;" />
   </p>
 </a>
 
