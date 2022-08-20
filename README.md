@@ -12,7 +12,7 @@ I'm just infected with a disease called curiosity.
   <img alt="Vite 2" src="https://img.shields.io/badge/-Vite2-81A3F9?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue3-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="ECharts"
-    src="https://img.shields.io/badge/-ECharts-E10098?style=flat-square&logo=ECharts&logoColor=white" />
+    src="https://img.shields.io/badge/-ECharts-E10098?style=flat-square&logo=echarts&logoColor=white" />
   <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="TailwindCSS"
@@ -23,7 +23,7 @@ I'm just infected with a disease called curiosity.
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-ea2845?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 </p>
 
 **写过的项目**
