@@ -18,4 +18,4 @@ export const github = {
   name: 'dud9',
 }
 
-export const timeZone = 'Asia/Nanjing'
+export const timeZone = 'Asia/Shanghai'
