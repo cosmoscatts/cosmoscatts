@@ -20,9 +20,6 @@ I'm just infected with a disease called curiosity.
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue3-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="ECharts"
     src="https://img.shields.io/badge/-ECharts-E10098?style=flat-square&logo=apacheecharts&logoColor=white" />
-  <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-5DE9E0?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="TailwindCSS"
     src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
