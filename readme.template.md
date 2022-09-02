@@ -42,12 +42,6 @@ I'm just infected with a disease called curiosity.
 
 <!-- opensource_projects -->
 
-<a href="#">
-    <p align="left">
-        <img src="https://github-profile-trophy.vercel.app/?username=dud9&column=7&theme=onedark&no-frame=true" />
-    </p>
-</a>
-
 <a align="center" href="#">
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=dud9&show_icons=true&theme=tokyonight&hide_border=true"
