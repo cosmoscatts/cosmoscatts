@@ -39,7 +39,6 @@ gh.interceptors.response.use(undefined, (err) => {
 /**
  * 生成 `Projects` 结构
  */
-
 function generateProjectsHTML(list: GRepo[]) {
   const tbody = list.reduce(
     (str, cur) =>
@@ -71,10 +70,11 @@ ${tbody}
 </table>`
 }
 
-
 async function main() {
   const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
   let newContent = template
+
+  console.log(newContent)
 
   // 获取写过的项目详情
   const limit = opensource.projects.limit
