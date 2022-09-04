@@ -1,4 +1,5 @@
 # Duende 🧑🏻‍💻 
+<img src="https://github.com/dud9/dud9/blob/master/go.gif" width="100">
 
 I'm just infected with a disease called curiosity.
 
@@ -39,12 +40,14 @@ I'm just infected with a disease called curiosity.
 
 <!-- opensource_projects -->
 
-<a align="center" href="#">
+<!-- <a align="center" href="#">
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=dud9&show_icons=true&theme=tokyonight&hide_border=true"
      alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dud9&layout=compact&theme=tokyonight&hide_border=true" alt="languages" height="165" />
   </p>
-</a>
+</a> -->
+
+<img src="https://github.com/dud9/dud9/blob/master/gopher.gif" width="100">
 
 ------------
 
