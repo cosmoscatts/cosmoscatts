@@ -47,7 +47,7 @@ I'm just infected with a disease called curiosity.
   </p>
 </a> -->
 
-<img src="https://github.com/dud9/dud9/blob/master/gopher.gif" width="100">
+<img src="https://github.com/dud9/dud9/blob/master/gopher.gif" >
 
 ------------
 
