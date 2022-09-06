@@ -17,7 +17,7 @@ I'm just infected with a disease called curiosity.
 <p>
   <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Vite 2" src="https://img.shields.io/badge/-Vite2-81A3F9?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Vite 3" src="https://img.shields.io/badge/-Vite2-81A3F9?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue3-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="ECharts"
     src="https://img.shields.io/badge/-ECharts-E10098?style=flat-square&logo=apacheecharts&logoColor=white" />
