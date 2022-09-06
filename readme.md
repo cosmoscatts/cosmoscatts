@@ -17,7 +17,7 @@ I'm just infected with a disease called curiosity.
 <p>
   <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Vite 2" src="https://img.shields.io/badge/-Vite2-81A3F9?style=flat-square&logo=vite&logoColor=white" />
+  <img alt="Vite 3" src="https://img.shields.io/badge/-Vite2-81A3F9?style=flat-square&logo=vite&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue3-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="ECharts"
     src="https://img.shields.io/badge/-ECharts-E10098?style=flat-square&logo=apacheecharts&logoColor=white" />
@@ -38,7 +38,7 @@ I'm just infected with a disease called curiosity.
 
 **Projects**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/dud9/petite target=_blank><b>dud9/petite</b></a> <a href=https://petite.netlify.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/petite?style=flat-square&labelColor=343b41"></td><td>6/20/2022</td><td>9/3/2022</td></tr><tr><td><a href=https://github.com/dud9/data-control-system-end target=_blank><b>dud9/data-control-system-end</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/data-control-system-end?style=flat-square&labelColor=343b41"></td><td>8/3/2022</td><td>8/19/2022</td></tr><tr><td><a href=https://github.com/dud9/parfait-api target=_blank><b>dud9/parfait-api</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait-api?style=flat-square&labelColor=343b41"></td><td>7/9/2022</td><td>8/19/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/dud9/parfait target=_blank><b>dud9/parfait</b></a> <a href=https://parfait.netlify.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait?style=flat-square&labelColor=343b41"></td><td>6/10/2022</td><td>9/5/2022</td></tr><tr><td><a href=https://github.com/dud9/data-control-system-front target=_blank><b>dud9/data-control-system-front</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/data-control-system-front?style=flat-square&labelColor=343b41"></td><td>8/3/2022</td><td>8/19/2022</td></tr><tr><td><a href=https://github.com/dud9/data-control-system-end target=_blank><b>dud9/data-control-system-end</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/data-control-system-end?style=flat-square&labelColor=343b41"></td><td>8/3/2022</td><td>8/19/2022</td></tr></tbody></table>
 
 <!-- <a align="center" href="#">
   <p align="left">
@@ -52,4 +52,4 @@ I'm just infected with a disease called curiosity.
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/5/22, 9:57 AM<br>下一次刷新：9/6/22, 9:57 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/6/22, 9:29 AM<br>下一次刷新：9/7/22, 9:29 AM</p>
