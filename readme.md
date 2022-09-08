@@ -38,7 +38,7 @@ I'm just infected with a disease called curiosity.
 
 **Projects**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/dud9/parfait target=_blank><b>dud9/parfait</b></a> <a href=https://parfait.netlify.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait?style=flat-square&labelColor=343b41"></td><td>6/10/2022</td><td>9/6/2022</td></tr><tr><td><a href=https://github.com/dud9/soft-tagbar target=_blank><b>dud9/soft-tagbar</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/soft-tagbar?style=flat-square&labelColor=343b41"></td><td>6/25/2022</td><td>8/16/2022</td></tr><tr><td><a href=https://github.com/dud9/petite target=_blank><b>dud9/petite</b></a> <a href=https://petite.netlify.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/petite?style=flat-square&labelColor=343b41"></td><td>6/20/2022</td><td>9/7/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/dud9/parfait target=_blank><b>dud9/parfait</b></a> <a href=https://parfait.netlify.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait?style=flat-square&labelColor=343b41"></td><td>6/10/2022</td><td>9/8/2022</td></tr><tr><td><a href=https://github.com/dud9/petite target=_blank><b>dud9/petite</b></a> <a href=https://petite.netlify.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/petite?style=flat-square&labelColor=343b41"></td><td>6/20/2022</td><td>9/8/2022</td></tr><tr><td><a href=https://github.com/dud9/data-control-system-front target=_blank><b>dud9/data-control-system-front</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/data-control-system-front?style=flat-square&labelColor=343b41"></td><td>8/3/2022</td><td>8/19/2022</td></tr></tbody></table>
 
 <!-- <a align="center" href="#">
   <p align="left">
@@ -52,4 +52,4 @@ I'm just infected with a disease called curiosity.
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/7/22, 9:55 AM<br>下一次刷新：9/8/22, 9:55 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/8/22, 9:53 AM<br>下一次刷新：9/9/22, 9:53 AM</p>
