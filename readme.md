@@ -38,7 +38,7 @@ I'm just infected with a disease called curiosity.
 
 **Projects**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/dud9/data-control-system-end target=_blank><b>dud9/data-control-system-end</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/data-control-system-end?style=flat-square&labelColor=343b41"></td><td>8/3/2022</td><td>8/19/2022</td></tr><tr><td><a href=https://github.com/dud9/vite-template target=_blank><b>dud9/vite-template</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/vite-template?style=flat-square&labelColor=343b41"></td><td>6/23/2022</td><td>8/22/2022</td></tr><tr><td><a href=https://github.com/dud9/parfait-api target=_blank><b>dud9/parfait-api</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait-api?style=flat-square&labelColor=343b41"></td><td>7/9/2022</td><td>8/19/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/dud9/soft-tagbar target=_blank><b>dud9/soft-tagbar</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/soft-tagbar?style=flat-square&labelColor=343b41"></td><td>6/25/2022</td><td>8/16/2022</td></tr><tr><td><a href=https://github.com/dud9/vite-template target=_blank><b>dud9/vite-template</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/vite-template?style=flat-square&labelColor=343b41"></td><td>6/23/2022</td><td>8/22/2022</td></tr><tr><td><a href=https://github.com/dud9/parfait target=_blank><b>dud9/parfait</b></a> <a href=https://parfait.netlify.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait?style=flat-square&labelColor=343b41"></td><td>6/10/2022</td><td>9/11/2022</td></tr></tbody></table>
 
 <!-- <a align="center" href="#">
   <p align="left">
@@ -52,4 +52,4 @@ I'm just infected with a disease called curiosity.
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/11/22, 9:51 AM<br>下一次刷新：9/12/22, 9:51 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/12/22, 10:01 AM<br>下一次刷新：9/13/22, 10:01 AM</p>
