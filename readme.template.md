@@ -3,16 +3,16 @@
 
 I'm just infected with a disease called curiosity.
 
-<p align="left">
+<!-- <p align="left">
   <samp>
     <a href="https://duende.netlify.app/">me</a> .
     <a href="https://duende.netlify.app/posts">blog</a> .
     <a href="https://duende.netlify.app/projects">projects</a> .
     <a href="https://duende.netlify.app/codes">leetcode</a>
   </samp>
-</p>
+</p> -->
 
-**Web Developer**
+<!-- **Web Developer**
 
 <p>
   <img alt="TypeScript"
@@ -34,7 +34,7 @@ I'm just infected with a disease called curiosity.
   <img alt="Maven" 
     src="https://img.shields.io/badge/-Maven-0088CC?style=flat-square&logo=apachemaven&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-F29111?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+</p> -->
 
 **Projects**
 
