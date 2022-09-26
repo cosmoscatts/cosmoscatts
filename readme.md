@@ -1,5 +1,5 @@
 # Duende 🧑🏻‍💻 
-<img src="https://github.com/dud9/dud9/blob/master/go.gif" width="100">
+<!-- <img src="https://github.com/dud9/dud9/blob/master/go.gif" width="100"> -->
 
 I'm just infected with a disease called curiosity.
 
@@ -36,9 +36,9 @@ I'm just infected with a disease called curiosity.
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-F29111?style=flat-square&logo=mysql&logoColor=white" />
 </p> -->
 
-**Projects**
+<!-- **Projects**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/dud9/parfait target=_blank><b>dud9/parfait</b></a> <a href=https://parfait.netlify.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait?style=flat-square&labelColor=343b41"></td><td>6/10/2022</td><td>9/26/2022</td></tr><tr><td><a href=https://github.com/dud9/parfait-api target=_blank><b>dud9/parfait-api</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait-api?style=flat-square&labelColor=343b41"></td><td>7/9/2022</td><td>8/19/2022</td></tr><tr><td><a href=https://github.com/dud9/petite target=_blank><b>dud9/petite</b></a> <a href=https://petite.netlify.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/petite?style=flat-square&labelColor=343b41"></td><td>6/20/2022</td><td>9/26/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/dud9/parfait target=_blank><b>dud9/parfait</b></a> <a href=https://parfait.netlify.app target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait?style=flat-square&labelColor=343b41"></td><td>6/10/2022</td><td>9/26/2022</td></tr><tr><td><a href=https://github.com/dud9/parfait-api target=_blank><b>dud9/parfait-api</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/parfait-api?style=flat-square&labelColor=343b41"></td><td>7/9/2022</td><td>8/19/2022</td></tr><tr><td><a href=https://github.com/dud9/petite target=_blank><b>dud9/petite</b></a> <a href=https://petite.netlify.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/dud9/petite?style=flat-square&labelColor=343b41"></td><td>6/20/2022</td><td>9/26/2022</td></tr></tbody></table> -->
 
 <!-- <a align="center" href="#">
   <p align="left">
@@ -49,7 +49,7 @@ I'm just infected with a disease called curiosity.
 
 <img src="https://github.com/dud9/dud9/blob/master/gopher.gif" >
 
-------------
+<!-- ------------ -->
 
-<p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/26/22, 9:57 AM<br>下一次刷新：9/27/22, 9:57 AM</p>
+<!-- <p align=center><strong>お可愛いこと。</strong></p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/26/22, 9:57 AM<br>下一次刷新：9/27/22, 9:57 AM</p> -->

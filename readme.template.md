@@ -36,7 +36,7 @@ I'm just infected with a disease called curiosity.
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-F29111?style=flat-square&logo=mysql&logoColor=white" />
 </p> -->
 
-**Projects**
+<!-- **Projects** -->
 
 <!-- opensource_projects -->
 
@@ -49,7 +49,7 @@ I'm just infected with a disease called curiosity.
 
 <img src="https://github.com/dud9/dud9/blob/master/gopher.gif" >
 
-------------
+<!-- ------------ -->
 
 <!-- motto -->
 <!-- footer_inject -->
