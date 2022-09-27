@@ -1,5 +1,5 @@
-# Duende 🧑🏻‍💻 
-<!-- <img src="https://github.com/dud9/dud9/blob/master/go.gif" width="100"> -->
+# Cosmoscatts 🧑🏻‍💻 
+<!-- <img src="https://github.com/cosmoscatts/cosmoscatts/blob/master/go.gif" width="100"> -->
 
 I'm just infected with a disease called curiosity.
 
@@ -47,7 +47,7 @@ I'm just infected with a disease called curiosity.
   </p>
 </a> -->
 
-<img src="https://github.com/dud9/dud9/blob/master/gopher.gif" >
+<img src="https://github.com/cosmoscatts/cosmoscatts/blob/master/gopher.gif" >
 
 <!-- ------------ -->
 
