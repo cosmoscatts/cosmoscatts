@@ -1,4 +1,4 @@
-# Cosmoscatts 🧑🏻‍💻 
+# Hi, bro 🐱‍🏍 
 
 <img align="right" src="https://github.com/cosmoscatts/cosmoscatts/blob/master/image.png" width="180">
 
@@ -7,8 +7,8 @@
 
 I'm just infected with a disease called ~~curiosity~~.
 
-- 🤣 Hello world!
+- 🤣 I'm cosmoscatts 🧑🏻‍💻.
 - 👾 `Java` Crud Boy, sometimes maybe `切图仔`.
 - 🚀 Learning `TypeScript`, `Vue` and `Spring Cloud`.
-- 🍔 A dream come true: `while(true) { money++; }`
+- 🍔 A dream come true: `while(true) { money++; }`.
 
