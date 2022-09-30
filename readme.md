@@ -7,7 +7,7 @@
 I'm just infected with a disease called ~~curiosity~~.
 
 - 🤣 learning TypeScript, Vue, Java and Spring Cloud.
-- 🍔 My dream: `while(sleeping){money++;}`
+- 🍔 A dream come true: `while(true) { money++; }`
 
 <!-- <p align="left">
   <samp>
