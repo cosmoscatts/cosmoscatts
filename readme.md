@@ -1,7 +1,13 @@
 # Cosmoscatts 🧑🏻‍💻 
 <!-- <img src="https://github.com/cosmoscatts/cosmoscatts/blob/master/go.gif" width="100"> -->
 
-I'm just infected with a disease called curiosity.
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://cosmoscatts.ren)
+[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:2138889191@qq.com)
+
+I'm just infected with a disease called ~~curiosity~~.
+
+- 🤣 learning TypeScript, Vue, Java and Spring Cloud.
+- 🍔 My dream: `while(sleeping){money++;}`
 
 <!-- <p align="left">
   <samp>
